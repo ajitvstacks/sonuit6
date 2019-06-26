@@ -1,0 +1,23 @@
+User-Agent: *
+Disallow: /cgi-bin/
+Disallow: /lib/
+Disallow: /source/
+Disallow: /font-awesome-4.6.1/
+Disallow: /js/
+
+User-agent: NinjaBot
+Allow: /
+
+User-agent: Mediapartners-Google*
+Allow: /
+
+User-agent: Google-image
+Allow: /images/
+
+User-agent: Adsbot-Google
+Allow: /
+
+User-agent: Google-Mobile
+Allow: /
+
+Sitemap: http://www.afalconuae.com/sitemap.xml
